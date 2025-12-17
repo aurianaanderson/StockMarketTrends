@@ -112,4 +112,4 @@ separate .py files. This is done to:
 
 - Ross Schanck - Data preparation, modeling, evaluation, documentation, Review, Testing, Feedback
 
-- Chase Golden - Data preparation, modeling, evaluation, documentat the model’s overall accuracy.
+- Chase Golden - Data preparation, modeling, evaluation, documentation, Review, Testing, Feedback
