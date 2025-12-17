@@ -1,7 +1,7 @@
 
 #### **project title:**
 
-## **Predicting Stock Market Trends Using Historical Price Dat
+## **Predicting Stock Market Trends Using Historical Price a**Dat
 
 #### Project Overview
 
