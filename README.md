@@ -39,7 +39,7 @@ accurately than random guessing.
 
 We expect that our model will correctly predict stock direction 55-60% of the time. This is
 slightly better than chance but will prove that short-term patterns contain usable information. Our
-hope is that more historic data will improve
+hope is that m the model’s overall accuracy.ore historic data will improve
 
 ## Data Source
 - S&P 500 Historical data retrieved from Yahoo Finance via the yfinance API
@@ -112,6 +112,4 @@ separate .py files. This is done to:
 
 - Ross Schanck - Data preparation, modeling, evaluation, documentation, Review, Testing, Feedback
 
-- Chase Golden - Data preparation, modeling, evaluation, documentation, Review, Testing, Feedback
-
- the model’s overall accuracy.
+- Chase Golden - Data preparation, modeling, evaluation, documentat the model’s overall accuracy.
